@@ -1,1 +1,3 @@
-# random-it-all
+# app
+
+a [Sails](http://sailsjs.org) application
