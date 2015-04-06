@@ -1,0 +1,676 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"whe",
+				"wheezy"
+			],
+			[
+				"platform",
+				"platform_version"
+			],
+			[
+				"eac",
+				"each"
+			],
+			[
+				"pack",
+				"package	package"
+			],
+			[
+				"inl",
+				"include_recipe	include_recipe"
+			],
+			[
+				"cookbook-",
+				"cookbook-nords-vm-main"
+			],
+			[
+				"local",
+				"local_ip"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 149,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 181.0,
+		"last_filter": "javas",
+		"selected_items":
+		[
+			[
+				"javas",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"josn",
+				"Set Syntax: JSON"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"isntall ",
+				"Package Control: Install Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"jso",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"prety",
+				"HTMLPrettify"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"lint j",
+				"Snippet: ES lodash/collection/inject"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"color",
+				"SublimeLinter: Clear Color Scheme Folder"
+			],
+			[
+				"theme",
+				"Themr: List themes"
+			],
+			[
+				"the",
+				"Themr: Add current theme to favorites"
+			],
+			[
+				"th",
+				"Themr: List themes"
+			],
+			[
+				"them",
+				"Themr: List themes"
+			],
+			[
+				"editor",
+				"Project Manager: Edit Project"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sideba",
+				"Side Bar: Refresh"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"pre",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"jsone",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jsn",
+				"Set Syntax: JSON"
+			],
+			[
+				"thmel",
+				"Set Syntax: HTML (Erlang)"
+			],
+			[
+				"beau",
+				"BeautifyRuby"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"sheba",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/danijel/Personal/random-it-all"
+	],
+	"file_history":
+	[
+		"/Users/danijel/Personal/spark-app/www/js/ngapp.js",
+		"/Users/danijel/Personal/spark-app/www/js/auth0-variables.js",
+		"/Users/danijel/Personal/spark-app/myProject/app/example/scripts/LearnMoreController.coffee",
+		"/Users/danijel/.ssh/known_hosts",
+		"/Users/danijel/Personal/dmaricic.com/config/env/production.js",
+		"/Users/danijel/Personal/dmaricic.com/config/blueprints.js",
+		"/Users/danijel/Personal/dmaricic.com/package.json",
+		"/Users/danijel/Personal/dmaricic.com/tmp/Marco Theme/index.html",
+		"/Users/danijel/Personal/dmaricic.com/tasks/register/build.js",
+		"/Users/danijel/Personal/dmaricic.com/tasks/pipeline.js",
+		"/Users/danijel/Personal/dmaricic.com/tasks/register/buildProd.js",
+		"/Users/danijel/Personal/dmaricic.com/views/layout.ejs",
+		"/Users/danijel/Personal/dmaricic.com/assets/js/skel.min.js",
+		"/Users/danijel/Personal/dmaricic.com/config/session.js",
+		"/Users/danijel/Personal/dmaricic.com/tasks/register/prod.js",
+		"/Users/danijel/Personal/dmaricic.com/node_modules/grunt/node_modules/glob/test/pause-resume.js",
+		"/Users/danijel/Personal/dmaricic.com/index.html",
+		"/Users/danijel/Personal/dmaricic.com/views/homepage.ejs",
+		"/Users/danijel/Personal/dmaricic.com/assets/styles/animations.css",
+		"/Users/danijel/Personal/dmaricic.com/assets/styles/main.css",
+		"/Users/danijel/Personal/dmaricic.com/app/config/blueprints.js",
+		"/Users/danijel/Personal/dmaricic.com/app/config/routes.js",
+		"/Users/danijel/Personal/dmaricic.com/app/api/controllers/HomeController.js",
+		"/Users/danijel/Personal/dmaricic.com/app/views/homepage.ejs",
+		"/Users/danijel/Personal/dmaricic.com/app/views/layout.ejs",
+		"/Users/danijel/Personal/dmaricic.com/app/tasks/config/watch.js",
+		"/Users/danijel/Personal/dmaricic.com/app/config/globals.js",
+		"/Users/danijel/Personal/dmaricic.com/app/config/env/development.js",
+		"/Users/danijel/Personal/dmaricic.com/app/config/views.js",
+		"/Users/danijel/Personal/dmaricic.com/app/node_modules/sails/node_modules/i18n/node_modules/mustache/hooks/install-hooks.sh",
+		"/Users/danijel/Personal/dmaricic.com/app/node_modules/grunt-contrib-less/node_modules/less/test/less/errors/import-no-semi.less",
+		"/Users/danijel/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/danijel/Personal/dmaricic.com/app/config/models.js",
+		"/Users/danijel/Personal/dmaricic.com/app/.nodemonignore",
+		"/Users/danijel/Work/vagrant-multimachine/Vagrantfile",
+		"/Users/danijel/Work/vagrant-multimachine/app1/index.html",
+		"/Users/danijel/Work/gamerefinery/cookbooks/vagrant_main/templates/default/xdebug.ini.erb",
+		"/Users/danijel/Work/gamerefinery/app/vendor/symfony/console/Symfony/Component/Console/Descriptor/XmlDescriptor.php",
+		"/Users/danijel/Personal/spark-app/ng-app/app.js",
+		"/Users/danijel/Personal/spark-app/ng-app/controllers/LoginCtrl.js",
+		"/Users/danijel/Personal/spark-app/ng-app/controllers/DashCtrl.js",
+		"/Users/danijel/Personal/spark-app/subProject1.3.13/www/js/app.js",
+		"/Users/danijel/Personal/spark-app/ng-app/Profile/EditProfileCtrl.js",
+		"/Users/danijel/Personal/spark-app/subProject1.3.13/bower.json",
+		"/Users/danijel/Personal/spark-app/bower.json",
+		"/Users/danijel/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/danijel/Work/vagrant-drupal/Vagrantfile",
+		"/Users/danijel/Downloads/loopj-jquery-tokeninput-201d2d1/examples/php-example.php",
+		"/Users/danijel/Personal/blog.dmaricic.com/config.json",
+		"/Users/danijel/Downloads/auth0-cordova-sample/www/js/app.js",
+		"/Users/danijel/.chef/cookbooks/apache2/recipes/default.rb",
+		"/Users/danijel/.chef/cookbooks/apache2/attributes/default.rb",
+		"/Users/danijel/.chef/cookbooks/apache-vhost/templates/default/sites.conf.erb",
+		"/Users/danijel/.chef/cookbooks/apache2/README.md",
+		"/Users/danijel/.chef/cookbooks/apache2/templates/default/mods/mpm_event.conf.erb",
+		"/Users/danijel/.chef/cookbooks/apache2/recipes/mpm_worker.rb",
+		"/Users/danijel/.chef/cookbooks/nodejs/recipes/default.rb",
+		"/Users/danijel/.chef/cookbooks/nodejs/recipes/npm.rb",
+		"/Users/danijel/.chef/cookbooks/apache2/templates/default/apache2.conf.erb",
+		"/private/var/folders/dp/bnfgzc012zd8m2c0g6cv9gb00000gn/T/frontend_views_analysis_view_Before_40b20115ebb4be13d6f558bd81932074071e2923.php",
+		"/Users/danijel/ChefServer/commands.md",
+		"/Users/danijel/.chef/cookbooks/apache-vhost/recipes/staging.rb",
+		"/var/folders/dp/bnfgzc012zd8m2c0g6cv9gb00000gn/T/knife-edit-20150213-55691-16klxwi.json",
+		"/var/folders/dp/bnfgzc012zd8m2c0g6cv9gb00000gn/T/knife-edit-20150213-55678-13sw5mf.json",
+		"/var/folders/dp/bnfgzc012zd8m2c0g6cv9gb00000gn/T/knife-edit-20150213-55666-18ize4x.json",
+		"/var/folders/dp/bnfgzc012zd8m2c0g6cv9gb00000gn/T/knife-edit-20150213-55654-yjrvmz.json",
+		"/var/folders/dp/bnfgzc012zd8m2c0g6cv9gb00000gn/T/knife-edit-20150213-55642-ali5b2.json",
+		"/var/folders/dp/bnfgzc012zd8m2c0g6cv9gb00000gn/T/knife-edit-20150213-55630-1n7021p.json",
+		"/Users/danijel/Work/gamerefinery/Vagrantfile",
+		"/Users/danijel/ChefServer/org-game-refinery/passwds",
+		"/Users/danijel/ChefServer/org-game-refinery/create-servers.sh",
+		"/Users/danijel/.chef/cookbooks/newrelic_monitoring/README.md",
+		"/Users/danijel/.chef/cookbooks/php/attributes/default.rb",
+		"/Users/danijel/.chef/cookbooks/stackdriver/attributes/default.rb",
+		"/Users/danijel/.chef/cookbooks/newrelic/attributes/default.rb",
+		"/Users/danijel/.chef/cookbooks/mariadb/recipes/server.rb",
+		"/Users/danijel/.chef/cookbooks/mariadb/templates/default/mariadb_grants.erb",
+		"/Users/danijel/.chef/cookbooks/keys/metadata.rb",
+		"/Users/danijel/.chef/cookbooks/.git/MERGE_MSG",
+		"/Users/danijel/.chef/cookbooks/screen/metadata.rb",
+		"/Users/danijel/.chef/cookbooks/default-software/metadata.rb",
+		"/Users/danijel/.chef/cookbooks/default-software/recipes/default.rb",
+		"/var/folders/dp/bnfgzc012zd8m2c0g6cv9gb00000gn/T/knife-edit-20150202-88268-n0sw5i.json",
+		"/Users/danijel/.chef/cookbooks/apache-vhost/recipes/default.rb",
+		"/Users/danijel/.chef/cookbooks/apache-vhost/metadata.rb",
+		"/Users/danijel/ChefServer/from-evernote.md",
+		"/Users/danijel/ChefServer/readme.md",
+		"/Users/danijel/ChefServer/org-game-refinery/knife.rb",
+		"/Users/danijel/ChefServer/org-nordsoftware/knife.rb",
+		"/private/var/folders/dp/bnfgzc012zd8m2c0g6cv9gb00000gn/T/frontend_controllers_GameController_Before_171614fab3cd84e38c4abd2fbda3f40f782ff158.php",
+		"/private/var/folders/dp/bnfgzc012zd8m2c0g6cv9gb00000gn/T/frontend_web_js_application_Before_b2163344d4b267fbb477b226303610fc8cd5cdf2.js",
+		"/private/var/folders/dp/bnfgzc012zd8m2c0g6cv9gb00000gn/T/frontend_views_game_partials__features_Before_0cf5703a812fd30b15875a6d68453682b419b578.php",
+		"/Users/danijel/Work/gamerefinery/gamerefinery-project/frontend/views/game/partials/_features.php",
+		"/Users/danijel/Library/Caches/com.binarynights.ForkLift2/#4/wp-config-sample.php",
+		"/Users/danijel/Library/Caches/com.binarynights.ForkLift2/#3/wp-conf.php",
+		"/Users/danijel/Library/Caches/com.binarynights.ForkLift2/#2/wp-settings.php",
+		"/Users/danijel/Library/Caches/com.binarynights.ForkLift2/#0/index.php",
+		"/Users/danijel/Work/vagrant-project-env/cookbooks/vagrant_main/recipes/default.rb",
+		"/Users/danijel/Work/mariaDB-vagrant/Vagrantfile",
+		"/Users/danijel/Work/mariaDB-vagrant/cookbooks/vagrant_main/recipes/default.rb",
+		"/Users/danijel/Work/mariaDB-vagrant/cookbooks/mariadb/README.md",
+		"/Users/danijel/Work/mariaDB-vagrant/cookbooks/mariadb/recipes/repository.rb",
+		"/Users/danijel/Work/mariaDB-vagrant/cookbooks/mariadb/metadata.rb",
+		"/Users/danijel/Work/mariaDB-vagrant/cookbooks/mariadb/recipes/server.rb",
+		"/Users/danijel/Work/mariaDB-vagrant/cookbooks/mariadb/recipes/_redhat_server.rb",
+		"/Users/danijel/Work/bento/packer/macosx-10.9.json",
+		"/Users/danijel/Work/vagrant-project-env/Berksfile",
+		"/Users/danijel/Work/cookbooks/cookbook-nords-vm-main/templates/default/xdebug.ini.erb",
+		"/Users/danijel/Work/vagrant-project-env/Vagrantfile",
+		"/Users/danijel/Work/vagrant-project-env/build.sh",
+		"/Applications/Vagrant/embedded/gems/gems/vagrant-1.6.5/lib/vagrant/action/warden.rb",
+		"/Users/danijel/Work/dovre-group/Vagrantfile",
+		"/Users/danijel/Work/vagrant-project-env/projects/dovre-club/package.json",
+		"/Users/danijel/Work/cookbooks/cookbook-nords-vm-main/templates/default/webgrind.conf.erb",
+		"/Users/danijel/Work/cookbook-nords-vm-main/attributes/default.rb",
+		"/Users/danijel/Work/cookbook-nords-vm-main/providers/debian.rb",
+		"/Users/danijel/Work/vagrant-project-env/projects/dovre-club/chef/cookbooks/main_app/recipes/default.rb",
+		"/Users/danijel/Work/cookbook-nords-vm-main/recipes/default.rb",
+		"/Users/danijel/Work/vagrant-project-env/projects/dovre-club/common/components/BaseUserIdentity.php",
+		"/Users/danijel/Work/vagrant-project-env/projects/dovre-club/console/scripts/bashUtils.sh",
+		"/Users/danijel/Work/vagrant-project-env/cookbooks/nords-vm-main/attributes/default.rb",
+		"/Users/danijel/Work/vagrant-project-env/cookbooks/yum-epel/attributes/epel.rb",
+		"/Users/danijel/Work/vagrant-project-env/projects/gamerefinery-project/.gitattributes",
+		"/Users/danijel/Work/vagrant-project-env/cookbooks/ark/files/default/tests/minitest/test_test.rb",
+		"/Users/danijel/Work/vagrant-project-env/projects/dovre-club/console/migrations/m130531_121422_alter_tinyurl_table.php",
+		"/Users/danijel/Work/vagrant-project-env/projects/dovre-club/common/models/activerecords/AuthToken.php",
+		"/Users/danijel/Work/vagrant-project-env/projects/dovre-club/console/migrations/m140331_071925_alter_table_cms_event_registration.php",
+		"/Users/danijel/Work/vagrant-project-env/projects/gamerefinery-project/assets.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/danijel/Personal/dmaricic.com/www/js",
+			"/Users/danijel/Personal/dmaricic.com/assets",
+			"/Users/danijel/.chef/cookbooks/php",
+			"/Users/danijel/.chef/cookbooks/apache2",
+			"/Users/danijel/.chef/cookbooks",
+			"/Users/danijel/.chef/cookbooksprefork",
+			"/Users/danijel/.chef/cookbooks/nodejs",
+			"/Users/danijel/.chef/cookbooks/apache2",
+			"/Users/danijel/.chef/cookbooks/mariadb",
+			"/Users/danijel/.chef/cookbooks/php"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'",
+			"dmaricic.",
+			"app.js",
+			"style.css",
+			"style.",
+			"css",
+			"css/",
+			"css",
+			"tiwtter",
+			"assets/",
+			"img/",
+			"pem",
+			",",
+			"age",
+			"ageOl",
+			"instance",
+			"apache",
+			"fpm",
+			"pool.d",
+			"fast",
+			"fpm",
+			"prefork",
+			"worker",
+			"version",
+			"mpm",
+			"default_modules",
+			"'])\n",
+			"log",
+			"packa",
+			"npm_packages",
+			"mpm",
+			"worker",
+			"default",
+			"prefork",
+			"MaxRequestsPerChild",
+			"MaxSpareServers",
+			"MaxClient",
+			"HostnameLookups",
+			"dns",
+			"default",
+			"worker",
+			"\\\"",
+			"\"",
+			",",
+			":",
+			"\"",
+			"\"]",
+			"\"]\n",
+			"v20141205",
+			"default",
+			"disable",
+			"}\n",
+			"key",
+			"forbid_remote_root",
+			"sites",
+			"ini_settings",
+			"proc_",
+			"proc_open",
+			"pd",
+			"n1-standard-2",
+			"gcutil",
+			"benchmark",
+			"log",
+			"\"\n",
+			"redisio",
+			"\"",
+			"mysql",
+			"true",
+			"chef",
+			"Yii::t(",
+			"=> ",
+			" => ",
+			"chef_version",
+			"?XDEBUG_PROFILE",
+			"trace_enable_trigger",
+			"pythonExecutable",
+			"info",
+			"mysql",
+			"phing",
+			"\"",
+			"cookbook",
+			"\"",
+			"\"\n",
+			"vim",
+			"c.",
+			"config.",
+			"config",
+			"backend"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"FACEBOOK_APP_ID",
+			"",
+			"images/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								148,
+								148
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"produciton",
+				"config/env/production.js"
+			],
+			[
+				"production",
+				"config/env/production.js"
+			],
+			[
+				"skel.min",
+				"assets/js/skel.min.js"
+			],
+			[
+				"produc",
+				"config/env/production.js"
+			],
+			[
+				"xde",
+				"cookbooks/vagrant_main/templates/default/xdebug.ini.erb"
+			],
+			[
+				"build",
+				"vagrant-project-env/build.sh"
+			],
+			[
+				"nords-vm-main/attribute.rb",
+				"vagrant-project-env/cookbooks/nords-vm-main/attributes/default.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
